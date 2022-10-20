@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "fns",
+  "examples/debounce"
+]
