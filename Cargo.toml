@@ -2,5 +2,6 @@
 
 members = [
   "fns",
-  "examples/debounce"
+  "examples/debounce",
+  "examples/throttle",
 ]

@@ -1,5 +1,7 @@
 mod debounce;
+mod throttle;
 pub use debounce::debounce;
+pub use throttle::throttle;
 
 // pub fn add(left: usize, right: usize) -> usize {
 //   left + right
